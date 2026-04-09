@@ -116,7 +116,7 @@ netflix-analysis/
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 | Chart                  | Type                | Insight                                       |
 | ---------------------- | ------------------- | --------------------------------------------- |
@@ -132,21 +132,21 @@ netflix-analysis/
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netflix-eda.git
-cd netflix-eda
+git clone https://github.com/yourusername/netflix-analysis.git
+cd netflix-analysis
 
 
 # Launch Jupyter
-jupyter notebook notebooks/netflix_eda.ipynb
+jupyter notebook notebooks/netflix_EDA.ipynb
 ```
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 1. **Netflix is movie-heavy** but growing its TV Show investment, especially in limited series
 2. **US content dominates**, but India, South Korea, and Japan are strong regional players
@@ -157,7 +157,7 @@ jupyter notebook notebooks/netflix_eda.ipynb
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License. The dataset is publicly available on Kaggle under its respective terms.
 
